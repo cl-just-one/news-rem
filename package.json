@@ -1,0 +1,19 @@
+{
+  "name": "wangyi-news-rem",
+  "version": "1.0.0",
+  "description": "\"This is a Wang Yi News page\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --watch --mode development"
+  },
+  "author": "chenglin",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.8.3"
+  }
+}
